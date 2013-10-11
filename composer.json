@@ -5,7 +5,8 @@
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.0.*",
-		"robclancy/presenter": "1.1.*"
+		"robclancy/presenter": "1.2.*",
+		"way/generators": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
